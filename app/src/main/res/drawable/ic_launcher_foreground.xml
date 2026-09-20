@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Graduation / Study Cap / Book & Sparkle -->
+    <!-- Open Book Base -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M34,42 C38,42 47,40 54,43 C61,40 70,42 74,42 C75.1,42 76,42.9 76,44 L76,68 C76,69.1 75.1,70 74,70 C67,70 59,71.5 54,74 C49,71.5 41,70 34,70 C32.9,70 32,69.1 32,68 L32,44 C32,42.9 32.9,42 34,42 Z" />
+    <!-- Book Spine & Division -->
+    <path
+        android:fillColor="#4338CA"
+        android:pathData="M52.5,43 L55.5,43 L55.5,74 L52.5,74 Z" />
+    <!-- Left Page Study Lines -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M37,48 L50,48 L50,50 L37,50 Z M37,53 L48,53 L48,55 L37,55 Z M37,58 L46,58 L46,60 L37,60 Z" />
+    <!-- Right Page Study Lines -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M58,48 L71,48 L71,50 L58,50 Z M58,53 L69,53 L69,55 L58,55 Z M58,58 L67,58 L67,60 L58,60 Z" />
+    <!-- AI Sparkle / Star at top center -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,26 C54,31 56,33 60,33 C56,33 54,35 54,40 C54,35 52,33 48,33 C52,33 54,31 54,26 Z" />
+    <!-- Mini accent stars -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M69,32 C69,34.5 70,35.5 72,35.5 C70,35.5 69,36.5 69,39 C69,36.5 68,35.5 66,35.5 C68,35.5 69,34.5 69,32 Z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M39,34 C39,36 39.8,36.8 41.5,36.8 C39.8,36.8 39,37.6 39,39.5 C39,37.6 38.2,36.8 36.5,36.8 C38.2,36.8 39,36 39,34 Z" />
+    <!-- Bottom bookmark ribbon -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M52,73 L54,77 L56,73 Z" />
+</vector>

@@ -1,0 +1,7 @@
+{
+  "name": "Study AI",
+  "description": "AI-powered study planner and schedule maker with intelligent timetable generation, Pomodoro focus timer, and interactive AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
